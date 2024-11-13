@@ -1,0 +1,26 @@
+{
+  "global_north": [
+    "United States",
+    "Canada",
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Japan",
+    "Norway",
+    "Sweden",
+    "Australia",
+    "New Zealand"
+  ],
+  "global_south": [
+    "Brazil",
+    "India",
+    "South Africa",
+    "Mexico",
+    "Argentina",
+    "Nigeria",
+    "Indonesia",
+    "Kenya",
+    "Vietnam",
+    "Philippines"
+  ]
+}
